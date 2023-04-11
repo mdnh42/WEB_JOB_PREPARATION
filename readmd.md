@@ -1,3 +1,14 @@
+HI, MY Name is MD NUR HASAN. I am trying to learn HOW DOES WORK PROGRAMMING. I am also Completed C, C++ Programming Languages, DATA STRUCTURE (Array, String, Linked List, Stack, Queue, Tree, Prioriry Queue) and Algorithm (Sorting(Bubble Sort, Merge Sort, Quick Sort, Topological Sort etc), Divide Conquer Algorithm, Breaktrack ALgorithm, GRAPH- BFS, DFS, Dijkstra, Bellman Ford Algorithm etc). 
+
+My Another part of Preety Path WEB DEVELOPMENT. I Love JS. So, Finally I prepared myself for WEB DEVELOPMENT. 
+
+So, I covered My GIT, JS Knowledge.
+
+
+
+
+
+
 # GIT and GITHUB RELATED QUESTION 
 ১) What is Git? What are the advantages of using Git?
 ২) What do you understand by the term ‘Version Control System’?
@@ -48,32 +59,19 @@
 
 
 
-# JS 
-
+# JS Related Question: 
 1. Do you know what JavaScript is?
-
 2. Do you know how JavaScript works?
-
 3. What are variables?
-
 4. How to declare variables 
-
 5. How to change or update the value of a variable. 
-
 6. What are the types of variables? What are they (Hints: Numeric, String, Boolean)
-
 7. What are the primitive and non-primitive data types in JavaScript? Give an example. 
-
 8. How to declare variable names. No thing can be written in the name. That is, tell about the naming convention of Variable. 
-
 9. How do =, -, *, /, % between two variables? 
-
 10. Shorthands should be known. Especially +=, -=, *=, /= should be known. 
-
 11.. What is the function of ++ and --? do you know this 
-
 12 parseInt, parseFloat, toFixed do these? 
-
 --------------
 
 13. Array is a thing. How does this work? How to declare an Array 
@@ -99,49 +97,32 @@
 23. How to compare What do these mean: >, <, ==, !=, <=, >=, ===, !==, &&, .. 
 
 24. To you: if more than 80000 rupees you will buy mac, if more than 60 rupees you will buy gaming laptop, if more than 40 thousand rupees you will buy lenovo yoga computer, if more than 20 thousand rupees you will buy old laptop. Otherwise you will work with mobile. 
-
-
-
----------------------
-
 25. Show this as output 39 times. 
-
 26. How the while loop works 
-
 27. How the for loop works 
-
 28. What happens if the loop variable is not changed in the while loop? 
-
 29. Write a code and display all the numbers from 58 to 98 
-
 30. Write a code and show all the strong numbers from 412 to 456  
-
 31. Write a code and show all the odd numbers from 581 to 623 
-
 32. What is the difference between while and for loop? 
-
 33 Make an array with the names of the things you have learned so far. Then use a for loop to output all elements of that array. 
-
 34. Create an array with the names of all the mobile phone models you have used so far. Then show the elements of that array as output one by one with a while loop 
-
 35. Run a for loop. 30 to 86. And when this loop goes to 44, it will brake. Code that thing 
-
 36. Write an array with the prices of all the books you have. The books whose price is above 200 rupees will be skipped. That is, they will not show as output. The rest will be displayed as output. 
-# Immutiable 
+
+
+# JS METHOD FUNCTION DATA TYPES 
+## Immutiable 
     -String Immutiable 
     - Not Change. 
 
-
-
-# String 
+## String 
     - includes 
     - to uppercase 
     - to lower case 
     - indexof
     - split
     - slice 
-    - 
-
 
 # Math 
     - Absoute 
@@ -150,116 +131,6 @@
     - ceil
     - Floor     
     - random number
-
-# HTML CSS 
-
-## HTML Tag
-    - HTML - Hyper Text Murkup Language
-    - Paragraph Tag <p> </p>
-    - Text Bold Tag <b> </b>
-    - Text Italic Tag <i> </i>
-
-# HTML Semantic Tag 
-
-    <article>
-    <aside>
-    <details>
-    <figcaption>
-    <figure>
-    <footer>
-    <header>
-    <main>
-    <mark>
-    <nav>
-    <section>
-    <summary>
-    <time>
-
-# HTML NON-Semantic Tag
-
-    -<span>
-    -<div>
-
-# HTML inline Tag 
-    <span>
-    <a>
-    <abbr>
-    <acronym>
-    <b>
-    <bdo>
-    <big>
-    <br>
-    <button>
-    <cite>
-    <code>
-    <dfn>
-    <em>
-    <i>
-    <img>
-    <input>
-    <kbd>
-    <label>
-    <map>
-    <object>
-    <output>
-    <q>
-    <samp>
-    <script>
-    <select>
-    <small>
-    <span>
-    <strong>
-    <sub>
-    <sup>          
-    <textarea>
-    <time>
-    <tt>
-    <var>
-# HTML BLock Tag 
-    <address>
-    <article>
-    <aside>
-    <blockquote>
-    <canvas>
-    <dd>
-    <div>
-    <dl>
-    <dt>
-    <fieldset>
-    <figcaption>
-    <figure>
-    <footer>
-    <form>
-    <h1>-<h6>
-    <header>
-    <hr>
-    <li>
-    <main>
-    <nav>
-    <noscript>
-    <ol>
-    <p>
-    <pre>
-    <section>
-    <table>
-    <tfoot>
-    <ul>
-    <video>
-
-## Emmet 
-    section>article*5>h3 
-
-
-## CSS Overflow visible, hidden, scroll, text-overflow, ellipsis
-## Transform element using rotate scale translate
-
-## Flexbox 
-## Flex direction column
-## justify Content (vertical) 
-## algn items (Horizontal)
-    
-## grid 
-## gird-template-row (repeat(4, 1fr))
 
 
 
@@ -285,7 +156,7 @@
 - Object Destructing 
 
 
-## API: 
+# API RELATED FUNCTION METHOD : 
 - JSON.stringfy 
 - JSON.Parse
 - Fetch 
@@ -346,7 +217,7 @@
 ## Google Chrome Network Option 
 
 
-ES6 Interview Question: 
+# ES6 Interview Question: 
 1. What is ES6? Have you ever used anything from ES6?
 2. Explain the difference between var, let and const.
 3. What is the arrow function, and how to create it?
@@ -358,7 +229,7 @@ ES6 Interview Question:
 
 
 
-Common DOM Related interview questions
+# Common DOM Related interview questions
 
 1. What is DOM?
 2. What are the different ways to get an element from DOM?
@@ -408,73 +279,7 @@ bracket notation?
     
 
 
-
-
-
-# Bootstrap Explorer 
-- We Can use 
-    - Online Link 
-    - Offlince Downlod 
-
-Background 
-    bg-primary
-    margin (s, e, t, b)
-    padding 
-
-Color 
-    text-
-
-Border, Border-raidus
-
-shadow width height overflow display. 
-    
-- Typography 
-- images 
-- Tables 
-- Horizontal Line
-- Card 
-- Carosual 
-- Button 
-- Wesbite Card 
-- Card Design 
-- Card Images 
-- Card Group 
-- Accordion Item 
-- Badge 
-- Breadcrumb 
-- Close Button 
-- Collapse similer Acordion 
-- Dropdown button 
-- List Group 
-- Modal 
-- Navbal 
-- Nav and Tabs 
-- Pagination 
-- Placehoders 
-- Toottips 
-- Toasts 
-- Spinner
-- Scorllspy 
-- Pupovers 
--
-xs, sm, md, lg, xl, 
-
-Container 
-Flex 
-Grid 
-
-
-Responsive: 
-Container, Row, Cols, Breakpoints, 12 columns with breakpoints. 
-Form
-Gutters 
-Modal 
-
-
-# BROWER and DEbug 
-
-
-
+# BROWSER and DEbug 
 ## What is really is JS? 
     - High abstrated. 
     - JIT (Just-In-Time)
