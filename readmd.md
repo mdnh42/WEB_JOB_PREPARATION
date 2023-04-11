@@ -2,12 +2,23 @@ HI, MY Name is MD NUR HASAN. I am trying to learn HOW DOES WORK PROGRAMMING. I a
 
 My Another part of Preety Path WEB DEVELOPMENT. I Love JS. So, Finally I prepared myself for WEB DEVELOPMENT. 
 
-So, I covered My GIT, JS Knowledge.
+Recently I covered My GIT, JS Knowledge.
 
-
-
-
-
+## CheckLIST About DOM, JS, ES6, API 
+    - Var, Let, Const, 
+    - Numeric, String Boolean, 
+    - String Concate, Type Conversion 
+    - ToFixed, PerseFloat and Remainder 
+    - Array, Lenth, Index, Get Index, Indexof 
+    - Push, pop, Shift and Unshif 
+    - Comparison Operation <>, -, + / %, 
+    - ToLowerCase, ToUpsercase
+    - Split, Slice, Substr, Substring, concate, Join 
+    - Includes, indexof, startwidth, endwith
+    - Swap, Temp, destructring 
+    - Reverse  
+    - Insert, Slice, Splice
+    - 
 
 # GIT and GITHUB RELATED QUESTION 
 ১) What is Git? What are the advantages of using Git?
@@ -16,50 +27,17 @@ So, I covered My GIT, JS Knowledge.
 ৪) Name a few Git commands with their function.
 ৫) Difference between git fetch and git pull.
 
+Updating ..................... 
+
 
 # CSS RELATED QUESTION 
+... SELF TEST 
+# JS Related Question: 
 ১) What do you understand by the universal sector?
 ২) Differentiate between the use of ID selector and class selector.
 ৩) How can you use CSS to control image repetition?
 ৪) Are the HTML tags and elements the same thing?
-
 ৫) Difference between inline, block and inline-block element. Is it possible to change an inline element into a block level element?
-1. Flexbox can be placed horizontally in any position. And some space can be given. They should be practiced 
-
-2. How to put it in a vertical position with flexbox. Must see them 
-
-
-3. Need to understand flex direction and flex wrap thing. The media query is displayed a bit smaller. But the work of being responsive 
-
-
-4. There are some basic differences between grid and flex. What are they? 
-
-5. How to set the column template of the grid layout 
-
-
-6. How to give gap between grid 
-
-7. What is a breakpoint thing? 
-
-
-8. The concept of min-width and max-width of the media query is slightly confusing, but still needs some thought. 
-
-
-9. How responsive is the two-column thing? How three or more things respond. 
-
-
-
-10. 7 things to be responsive There is basically an understanding of responsive images and relative CSS units and metatags. 
-
-
-
-
-
-
-
-
-
-# JS Related Question: 
 1. Do you know what JavaScript is?
 2. Do you know how JavaScript works?
 3. What are variables?
@@ -113,7 +91,7 @@ So, I covered My GIT, JS Knowledge.
 
 # JS METHOD FUNCTION DATA TYPES 
 ## Immutiable 
-    -String Immutiable 
+    - String Immutiable 
     - Not Change. 
 
 ## String 
@@ -407,11 +385,6 @@ bracket notation?
     - Tell me 2 differences between DOM vs BOM 
     - Can you discuss the types of Browser API. 
 
-
-
-
-
-
 ## JAVASCRIPT JOB INTERVIEW QUESTION 
     1. Remove falsy values from array
     2. Convert any value to boolean
@@ -423,3 +396,23 @@ bracket notation?
     8. Know performance of task
 
     Answer: Check JS JOB 1 to 8 Problem Example: 
+
+
+
+## Uncomportable TOPIC LIST
+
+    - Event Bubble and Stop Propagating 
+    - Event Delegate 
+
+    - Reduce
+    - Closure, Encasultaion
+    - Callback Function 
+    - Function Arguments 
+
+    - Engine V8 
+    - Event 
+    - Try Catch Trwo and FInally 
+
+
+
+ 
