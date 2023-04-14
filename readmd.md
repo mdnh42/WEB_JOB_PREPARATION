@@ -20,6 +20,18 @@ Recently I covered My GIT, JS Knowledge.
     - Insert, Slice, Splice
     - 
 
+    - templatee String, Arrow Function, max, min, 
+    - CRUD Operation 
+    - Filter, find, map, reduce, 
+    - DOt Notation 
+    - Class, Constructor, Method, Create object form class 
+    - Acccss Value from Object 
+    -GET, Post, Patch Delete CRUD GET POST 
+    - HTTP/HTTPS, API, 
+    - Json Stringfy and JSOn Parse 
+    - Ter
+    
+
 # GIT and GITHUB RELATED QUESTION 
 ১) What is Git? What are the advantages of using Git?
 ২) What do you understand by the term ‘Version Control System’?
@@ -415,4 +427,18 @@ bracket notation?
 
 
 
- 
+ ## Dubug Technique: 
+    When a Button no Working 
+        - Becktracking / Backward (Error)
+        - Forward Tracking ()
+
+    Anything wrong in your code. 
+        - you can check using console log 
+
+    Elimanation Teachnique 
+        
+    Brute Force Technique. (Combination)
+
+    
+    
+
